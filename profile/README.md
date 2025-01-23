@@ -1,5 +1,5 @@
 ## 🛍️ Stores
-<a href="https://apps.apple.com/us/app/happ-proxy-utility/id6504287215?platform=iphone"><img height=50px src="https://raw.githubusercontent.com/Happ-proxy/.github/refs/heads/main/assets/apple.appstore.png"></a>&nbsp;&nbsp;<a href="https://groups.google.com/g/happ-group"><img height=50px src="https://raw.githubusercontent.com/Happ-proxy/.github/refs/heads/main/assets/google.googleplay.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://apps.apple.com/us/app/happ-proxy-utility/id6504287215?platform=iphone"><img height=50px src="https://raw.githubusercontent.com/Happ-proxy/.github/refs/heads/main/assets/apple.appstore.png"></a>&nbsp;&nbsp;<a href="https://play.google.com/store/apps/details?id=com.happproxy"><img height=50px src="https://raw.githubusercontent.com/Happ-proxy/.github/refs/heads/main/assets/google.googleplay.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 ## 📥 Binaries
