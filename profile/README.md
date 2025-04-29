@@ -16,8 +16,8 @@
         <tr>
         <td>Android</td>
             <td>
-                <a href="https://github.com/Happ-proxy/happ-android/releases/download/1.10.0/Happ.apk"><img src="https://img.shields.io/badge/APK-Stable-044d29.svg?logo=android"></a><br/>
-                <a href="https://github.com/Happ-proxy/happ-android/releases/download/1.10.0/Happ_beta.apk"><img src="https://img.shields.io/badge/APK-Beta-044d29.svg?logo=android"></a>
+                <a href="https://github.com/Happ-proxy/happ-android/releases/latest/download/Happ.apk"><img src="https://img.shields.io/badge/APK-Stable-044d29.svg?logo=android"></a><br/>
+                <a href="https://github.com/Happ-proxy/happ-android/releases/latest/download/Happ_beta.apk"><img src="https://img.shields.io/badge/APK-Beta-044d29.svg?logo=android"></a>
             </td>
         </tr>
         <tr>
