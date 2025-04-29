@@ -23,7 +23,25 @@
         <tr>
             <td>Windows</td>
             <td>
-                <a href=""><img src="https://img.shields.io/badge/Setup-x64-2d7d9a.svg?logo=windows"></a>
+                <a href="https://github.com/Happ-proxy/happ-desktop/releases/latest/download/setup-Happ.x86.exe"><img src="https://img.shields.io/badge/Setup-x64-2d7d9a.svg?logo=windows"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>macOS(x86_64)</td>
+            <td>
+                <a href="https://github.com/Happ-proxy/happ-desktop/releases/latest/download/Happ.macOS.x86_64.app.tar.gz"><img src="https://img.shields.io/badge/Setup-x64-2d7d9a.svg?logo=windows"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>macOS(Arm64)</td>
+            <td>
+                <a href="https://github.com/Happ-proxy/happ-desktop/releases/latest/download/Happ.macOS.arm64.app.tar.gz"><img src="https://img.shields.io/badge/Setup-x64-2d7d9a.svg?logo=windows"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>Linux</td>
+            <td>
+                <a href="https://github.com/Happ-proxy/happ-desktop/releases/latest/download/Happ.linux.x86.AppImage.zip"><img src="https://img.shields.io/badge/Setup-x64-2d7d9a.svg?logo=windows"></a>
             </td>
         </tr>
     </tbody>
