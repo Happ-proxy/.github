@@ -27,21 +27,27 @@
             </td>
         </tr>
         <tr>
-            <td>macOS(x86_64)</td>
+            <td>macOS(x86_64/Arm64)</td>
             <td>
-                <a href="https://github.com/Happ-proxy/happ-desktop/releases/latest/download/Happ.macOS.x86_64.app.tar.gz"><img src="https://img.shields.io/badge/Setup-x64-2d7d9a.svg?logo=windows"></a>
-            </td>
-        </tr>
-        <tr>
-            <td>macOS(Arm64)</td>
-            <td>
-                <a href="https://github.com/Happ-proxy/happ-desktop/releases/latest/download/Happ.macOS.arm64.app.tar.gz"><img src="https://img.shields.io/badge/Setup-x64-2d7d9a.svg?logo=windows"></a>
+                <a href="https://apps.apple.com/us/app/happ-proxy-utility/id6504287215?platform=mac"><img src="https://img.shields.io/badge/Setup-x64-2d7d9a.svg?logo=windows"></a>
             </td>
         </tr>
         <tr>
             <td>Linux</td>
             <td>
                 <a href="https://github.com/Happ-proxy/happ-desktop/releases/latest/download/Happ.linux.x86.AppImage.zip"><img src="https://img.shields.io/badge/Setup-x64-2d7d9a.svg?logo=windows"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>TV Apple</td>
+            <td>
+                <a href="https://apps.apple.com/us/app/happ-proxy-utility-for-tv/id6748297274"><img src="https://img.shields.io/badge/Setup-x64-2d7d9a.svg?logo=apple"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>TV Android</td>
+            <td>
+                <a href="https://play.google.com/store/apps/details?id=com.happproxy"><img src="https://img.shields.io/badge/Setup-x64-2d7d9a.svg?logo=android"></a>
             </td>
         </tr>
     </tbody>
