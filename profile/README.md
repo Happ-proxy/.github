@@ -35,7 +35,7 @@
         <tr>
             <td>Linux</td>
             <td>
-                <a href="https://github.com/Happ-proxy/happ-desktop/releases/latest/download/Happ.linux.x86.AppImage.zip"><img src="https://img.shields.io/badge/Setup-x64-2d7d9a.svg?logo=windows"></a>
+                <a href="https://github.com/Happ-proxy/happ-desktop/releases/latest/download/Happ.linux.x86.AppImage"><img src="https://img.shields.io/badge/Setup-x64-2d7d9a.svg?logo=windows"></a>
             </td>
         </tr>
         <tr>
