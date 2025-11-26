@@ -35,8 +35,8 @@
         <tr>
             <td>Linux</td>
             <td>
-                <a href="https://github.com/Happ-proxy/happ-desktop/releases/latest/download/Happ.linux.x64.deb"><img src="https://img.shields.io/badge/Setup-x64-2d7d9a.svg?logo=windows"></a>
-                <a href="https://github.com/Happ-proxy/happ-desktop/releases/latest/download/Happ.linux.x64.rpm"><img src="https://img.shields.io/badge/Setup-x64-2d7d9a.svg?logo=windows"></a>
+                <a href="https://github.com/Happ-proxy/happ-desktop/releases/latest/download/Happ.linux.x64.deb"><img src="https://img.shields.io/badge/package-deb-db5a3b?logo=debian"></a><br/>
+                <a href="https://github.com/Happ-proxy/happ-desktop/releases/latest/download/Happ.linux.x64.rpm"><img src="https://img.shields.io/badge/package-rpm-e91429?logo=redhat"></a>
             </td>
         </tr>
         <tr>
