@@ -37,7 +37,7 @@
             <td>
                 <!-- Debian x64 -->
                 <a href="https://github.com/Happ-proxy/happ-desktop/releases/latest/download/Happ.linux.x64.deb">
-                    <img src="https://img.shields.io/badge/package-deb-db5a3b?logo=debian" alt="DEB x64">
+                    <img src="https://img.shields.io/badge/deb-x64-db5a3b?logo=debian" alt="DEB x64">
                 </a><br/>
                 <!-- Debian arm64 -->
                 <a href="https://github.com/Happ-proxy/happ-desktop/releases/latest/download/Happ.linux.arm64.deb">
@@ -45,7 +45,7 @@
                 </a><br/>
                 <!-- RPM x64 -->
                 <a href="https://github.com/Happ-proxy/happ-desktop/releases/latest/download/Happ.linux.x64.rpm">
-                    <img src="https://img.shields.io/badge/package-rpm-e91429?logo=redhat" alt="RPM x64">
+                    <img src="https://img.shields.io/badge/rpm-x64-e91429?logo=redhat" alt="RPM x64">
                 </a><br/>
                 <!-- RPM arm64 -->
                 <a href="https://github.com/Happ-proxy/happ-desktop/releases/latest/download/Happ.linux.arm64.rpm">
@@ -53,7 +53,7 @@
                 </a><br/>
                 <!-- Arch x64 -->
                 <a href="https://github.com/Happ-proxy/happ-desktop/releases/latest/download/Happ.linux.x64.pkg.tar.zst">
-                    <img src="https://img.shields.io/badge/package-arch-1793d1?logo=archlinux&logoColor=fff" alt="Arch x64">
+                    <img src="https://img.shields.io/badge/arch-x64-1793d1?logo=archlinux&logoColor=fff" alt="Arch x64">
                 </a><br/>
                 <!-- Arch arm64 -->
                 <a href="https://github.com/Happ-proxy/happ-desktop/releases/latest/download/Happ.linux.arm64.pkg.tar.zst">
