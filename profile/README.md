@@ -17,6 +17,7 @@
         <td>Android</td>
             <td>
                 <a href="https://github.com/Happ-proxy/happ-android/releases/latest/download/Happ.apk"><img src="https://img.shields.io/badge/APK-Stable-044d29.svg?logo=android"></a><br/>
+                <a href="https://disk.yandex.ru/d/u_d6cVaTVnyWuw"><img src="https://img.shields.io/badge/APK-Yandex_Link-044d29.svg?logo=android"></a><br/>
                 <a href="https://github.com/Happ-proxy/happ-android/releases/latest/download/Happ_beta.apk"><img src="https://img.shields.io/badge/APK-Beta-044d29.svg?logo=android"></a><br/>
             </td>
         </tr>
@@ -38,26 +39,49 @@
                 <!-- Debian x64 -->
                 <a href="https://github.com/Happ-proxy/happ-desktop/releases/latest/download/Happ.linux.x64.deb">
                     <img src="https://img.shields.io/badge/deb-x64-db5a3b?logo=debian" alt="DEB x64">
-                </a><br/>
+                </a>
+                <a href="https://disk.yandex.ru/d/GoscFb_zsFYN8A">
+                    <img src="https://img.shields.io/badge/yandex_link-x64-db5a3b?logo=debian" alt="DEB x64">
+                </a>
+                <br/>
                 <!-- Debian arm64 -->
                 <a href="https://github.com/Happ-proxy/happ-desktop/releases/latest/download/Happ.linux.arm64.deb">
                     <img src="https://img.shields.io/badge/deb-arm64-db5a3b?logo=debian&logoColor=white" alt="DEB arm64">
-                </a><br/>
+                </a>
+                <a href="https://disk.yandex.ru/d/02qzHNJ4yHNSkg">
+                    <img src="https://img.shields.io/badge/yandex_link-arm64-db5a3b?logo=debian&logoColor=white" alt="DEB arm64">
+                </a>
+                <br/>
                 <!-- RPM x64 -->
                 <a href="https://github.com/Happ-proxy/happ-desktop/releases/latest/download/Happ.linux.x64.rpm">
                     <img src="https://img.shields.io/badge/rpm-x64-e91429?logo=redhat" alt="RPM x64">
-                </a><br/>
+                </a>
+                <a href="https://disk.yandex.ru/d/SB06qEHDMPFY0A">
+                    <img src="https://img.shields.io/badge/yandex_link-x64-e91429?logo=redhat" alt="RPM x64">
+                </a>
+                <br/>
                 <!-- RPM arm64 -->
                 <a href="https://github.com/Happ-proxy/happ-desktop/releases/latest/download/Happ.linux.arm64.rpm">
                     <img src="https://img.shields.io/badge/rpm-arm64-e91429?logo=redhat&logoColor=white" alt="RPM arm64">
-                </a><br/>
+                </a>
+                <a href="https://disk.yandex.ru/d/mZGV7FXJtuF4WA">
+                    <img src="https://img.shields.io/badge/yandex_link-arm64-e91429?logo=redhat&logoColor=white" alt="RPM arm64">
+                </a>
+                <br/>
                 <!-- Arch x64 -->
                 <a href="https://github.com/Happ-proxy/happ-desktop/releases/latest/download/Happ.linux.x64.pkg.tar.zst">
                     <img src="https://img.shields.io/badge/arch-x64-1793d1?logo=archlinux&logoColor=fff" alt="Arch x64">
-                </a><br/>
+                </a>
+                <a href="https://disk.yandex.ru/d/cOTi2cIomWiq8A">
+                    <img src="https://img.shields.io/badge/yandex_link-x64-1793d1?logo=archlinux&logoColor=fff" alt="Arch x64">
+                </a>
+                <br/>
                 <!-- Arch arm64 -->
                 <a href="https://github.com/Happ-proxy/happ-desktop/releases/latest/download/Happ.linux.arm64.pkg.tar.zst">
                     <img src="https://img.shields.io/badge/arch-arm64-1793d1?logo=archlinux&logoColor=fff" alt="Arch arm64">
+                </a>
+                <a href="https://disk.yandex.ru/d/HaACgyXwmTnpxg">
+                    <img src="https://img.shields.io/badge/yandex_link-arm64-1793d1?logo=archlinux&logoColor=fff" alt="Arch arm64">
                 </a>
             </td>
         </tr>
