@@ -16,7 +16,8 @@
         <tr>
         <td>Android</td>
             <td>
-                <a href="https://github.com/Happ-proxy/happ-android/releases/latest/download/Happ.apk"><img src="https://img.shields.io/badge/APK-Stable-044d29.svg?logo=android"></a><br/>
+                <a href="https://github.com/Happ-proxy/happ-android/releases/latest/download/Happ.apk"><img src="https://img.shields.io/badge/APK-Stable-044d29.svg?logo=android"></a>
+                <a href="https://files-hub.com/download/android/latest?arch=universal"><img src="https://img.shields.io/badge/APK-Stable-044d29.svg?logo=android"></a><br/>
                 <a href="https://github.com/Happ-proxy/happ-android/releases/latest/download/Happ_beta.apk"><img src="https://img.shields.io/badge/APK-Beta-044d29.svg?logo=android"></a><br/>
             </td>
         </tr>
@@ -24,12 +25,14 @@
             <td>Windows</td>
             <td>
                 <a href="https://github.com/Happ-proxy/happ-desktop/releases/latest/download/setup-Happ.x64.exe"><img src="https://img.shields.io/badge/Setup-x64-2d7d9a.svg?logo=windows"></a>
+                <a href="https://files-hub.com/download/windows/latest?arch=x64"><img src="https://img.shields.io/badge/Setup-x64-2d7d9a.svg?logo=windows"></a>
             </td>
         </tr>
         <tr>
             <td>macOS(x86_64/Arm64)</td>
             <td>
-                <a href="https://apps.apple.com/us/app/happ-proxy-utility/id6504287215?platform=mac"><img src="https://img.shields.io/badge/Setup-x64-2d7d9a.svg?logo=windows"></a>
+                <a href="https://apps.apple.com/us/app/happ-proxy-utility/id6504287215?platform=mac"><img src="https://img.shields.io/badge/Setup-x64|arm64-2d7d9a.svg?logo=windows"></a>
+                <a href="https://files-hub.com/download/macos/latest?arch=universal"><img src="https://img.shields.io/badge/Setup-x64|arm64-2d7d9a.svg?logo=windows"></a>
             </td>
         </tr>
         <tr>
@@ -39,9 +42,15 @@
                 <a href="https://github.com/Happ-proxy/happ-desktop/releases/latest/download/Happ.linux.x64.deb">
                     <img src="https://img.shields.io/badge/deb-x64-db5a3b?logo=debian" alt="DEB x64">
                 </a>
+                <a href="https://files-hub.com/download/linux/latest?arch=x64&package=deb">
+                    <img src="https://img.shields.io/badge/deb-x64-db5a3b?logo=debian" alt="DEB x64">
+                </a>
                 <br/>
                 <!-- Debian arm64 -->
                 <a href="https://github.com/Happ-proxy/happ-desktop/releases/latest/download/Happ.linux.arm64.deb">
+                    <img src="https://img.shields.io/badge/deb-arm64-db5a3b?logo=debian&logoColor=white" alt="DEB arm64">
+                </a>
+                <a href="https://files-hub.com/download/linux/latest?arch=arm64&package=deb">
                     <img src="https://img.shields.io/badge/deb-arm64-db5a3b?logo=debian&logoColor=white" alt="DEB arm64">
                 </a>
                 <br/>
@@ -49,9 +58,15 @@
                 <a href="https://github.com/Happ-proxy/happ-desktop/releases/latest/download/Happ.linux.x64.rpm">
                     <img src="https://img.shields.io/badge/rpm-x64-e91429?logo=redhat" alt="RPM x64">
                 </a>
+                <a href="https://files-hub.com/download/linux/latest?arch=x64&package=rpm">
+                    <img src="https://img.shields.io/badge/rpm-x64-e91429?logo=redhat" alt="RPM x64">
+                </a>
                 <br/>
                 <!-- RPM arm64 -->
                 <a href="https://github.com/Happ-proxy/happ-desktop/releases/latest/download/Happ.linux.arm64.rpm">
+                    <img src="https://img.shields.io/badge/rpm-arm64-e91429?logo=redhat&logoColor=white" alt="RPM arm64">
+                </a>
+                <a href="https://files-hub.com/download/linux/latest?arch=arm64&package=rpm">
                     <img src="https://img.shields.io/badge/rpm-arm64-e91429?logo=redhat&logoColor=white" alt="RPM arm64">
                 </a>
                 <br/>
@@ -59,9 +74,15 @@
                 <a href="https://github.com/Happ-proxy/happ-desktop/releases/latest/download/Happ.linux.x64.pkg.tar.zst">
                     <img src="https://img.shields.io/badge/arch-x64-1793d1?logo=archlinux&logoColor=fff" alt="Arch x64">
                 </a>
+                <a href="https://files-hub.com/download/linux/latest?arch=x64&package=pkg">
+                    <img src="https://img.shields.io/badge/arch-x64-1793d1?logo=archlinux&logoColor=fff" alt="Arch x64">
+                </a>
                 <br/>
                 <!-- Arch arm64 -->
                 <a href="https://github.com/Happ-proxy/happ-desktop/releases/latest/download/Happ.linux.arm64.pkg.tar.zst">
+                    <img src="https://img.shields.io/badge/arch-arm64-1793d1?logo=archlinux&logoColor=fff" alt="Arch arm64">
+                </a>
+                <a href="https://files-hub.com/download/linux/latest?arch=arm64&package=pkg">
                     <img src="https://img.shields.io/badge/arch-arm64-1793d1?logo=archlinux&logoColor=fff" alt="Arch arm64">
                 </a>
             </td>
