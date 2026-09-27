@@ -43,7 +43,10 @@
             <td>Windows</td>
             <td>
                 <a href="https://github.com/Happ-proxy/happ-desktop/releases/latest/download/setup-Happ.x64.exe"><img src="https://img.shields.io/badge/Setup-x64-2d7d9a.svg?logo=windows"></a>
-                <a href="https://files-hub.com/download/windows/latest?arch=x64"><img src="https://img.shields.io/badge/Setup-x64(mirror)-2d7d9a.svg?logo=windows"></a>
+                <a href="https://files-hub.com/download/windows/latest?arch=x64"><img src="https://img.shields.io/badge/Setup-x64(mirror)-2d7d9a.svg?logo=windows"></a>              
+                <br/>
+                <a href="https://github.com/Happ-proxy/happ-desktop/releases/latest/download/setup-Happ.arm64.exe"><img src="https://img.shields.io/badge/Setup-arm64-2d7d9a.svg?logo=windows"></a>
+                <a href="https://files-hub.com/download/windows/latest?arch=arm64"><img src="https://img.shields.io/badge/Setup-arm64(mirror)-2d7d9a.svg?logo=windows"></a>  
             </td>
         </tr>
         <tr>
